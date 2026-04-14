@@ -45,6 +45,7 @@ This project mimics real-world autonomous systems used in robotics, self-driving
 ├── .gitignore
 └── README.md```
 
+
 ## 📸 Screenshots
 
 ![Simulation](https://github.com/shm230605/AI-Autonomous-Navigation-System/blob/main/outputs/images/simulation.png?raw=true)
