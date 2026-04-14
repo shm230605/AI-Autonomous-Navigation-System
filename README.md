@@ -25,7 +25,7 @@ This project mimics real-world autonomous systems used in robotics, self-driving
 - **Version Control:** Git & GitHub  
 
 ## 📁 Project Structure
-'''AI-Autonomous-Navigation-System/
+```AI-Autonomous-Navigation-System/
 │
 ├── simulation/
 │   ├── __init__.py
@@ -43,7 +43,7 @@ This project mimics real-world autonomous systems used in robotics, self-driving
 ├── main.py
 ├── requirements.txt
 ├── .gitignore
-└── README.md'''
+└── README.md```
 
 ## 📸 Screenshots
 
