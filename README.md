@@ -1,55 +1,45 @@
-# 🚗 AI-Based Autonomous Navigation System
-
 ## 📌 Project Overview
-This project simulates an **AI-based autonomous navigation system** that enables a virtual robot/vehicle to navigate from a start point to a goal while avoiding obstacles using intelligent path planning.
+The AI-Based Autonomous Navigation System is a simulation project that demonstrates how a robot or self-driving vehicle can navigate autonomously in an environment while avoiding obstacles.
 
-It is built using Python and Pygame, demonstrating core concepts used in **self-driving cars, robotics, and automation systems**.
+The system uses a grid-based virtual environment where an intelligent agent calculates the optimal path from a start point to a destination using the A* (A-Star) path planning algorithm.
 
----
+This project mimics real-world autonomous systems used in robotics, self-driving cars, warehouse automation, and smart mobility solutions, making it a strong proof-of-work for AI and robotics applications.
 
-## 🎯 Problem Statement
-Design a system that allows a robot to:
-- Understand its environment
-- Detect obstacles
-- Plan the shortest path
-- Navigate autonomously without collision
-
----
-
-## 🏭 Industry Relevance
-This project reflects real-world systems used in:
-- 🚗 Self-driving cars (Tesla, Waymo)
-- 📦 Warehouse robots (Amazon Robotics)
-- 🚁 Drone navigation
-- 🤖 Service robots
-- 🚚 Delivery automation systems
-
----
+## 🚀 Features
+- 🧭 Autonomous navigation from start to goal
+- 🧱 Grid-based environment simulation
+- 🚧 Dynamic obstacle placement
+- 🧠 A* (A-Star) path planning algorithm
+- 📍 Shortest path calculation
+- 🎯 Goal-based navigation system
+- 🖥️ Real-time visualization using Pygame
+- 🔄 Modular and scalable code structure
+- 📊 Path visualization for better understanding
 
 ## ⚙️ Tech Stack
-- Python
-- Pygame (Simulation)
-- NumPy
-- A* Path Planning Algorithm
+- **Programming Language:** Python  
+- **Simulation:** Pygame  
+- **Algorithms:** A* (A-Star Path Planning)  
+- **Libraries:** NumPy  
+- **Development Tool:** VS Code  
+- **Version Control:** Git & GitHub  
 
----
-
-## 🧠 Final Project Structure
+## 📁 Project Structure
 AI-Autonomous-Navigation-System/
 │
 ├── simulation/
-│   ├── __init__.py
-│   └── environment.py
+│ ├── init.py
+│ └── environment.py 
 │
 ├── src/
-│   ├── __init__.py
-│   ├── path_planning.py
-│   └── navigation.py
+│ ├── init.py
+│ ├── path_planning.py 
+│ └── navigation.py 
 │
 ├── outputs/
-│   ├── images/
-│   └── videos/
+│ ├── images/ 
+│ └── videos/ 
 │
-├── main.py
-├── requirements.txt
-└── .gitignore
+├── main.py 
+├── requirements.txt 
+└── .gitignore 
