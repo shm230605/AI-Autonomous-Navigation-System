@@ -42,9 +42,13 @@ AI-Autonomous-Navigation-System/
 │
 ├── main.py 
 ├── requirements.txt 
+<<<<<<< HEAD
 ├── .gitignore 
 └── README.md 
 
 ## 📸 Screenshots
 
 ![Simulation](outputs/images/Screenshot 2026-04-14 115205.png)
+=======
+└── .gitignore 
+>>>>>>> 7c5be3b7473409c87e25bd0dd0d0825cff310ddd
