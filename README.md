@@ -34,6 +34,7 @@ AI-Autonomous-Navigation-System/
 │   └── environment.py
 │
 ├── src/
+|   ├── __init__.py
 │   ├── path_planning.py
 │   └── navigation.py
 │
@@ -42,6 +43,8 @@ AI-Autonomous-Navigation-System/
 │   └── videos/
 │
 ├── main.py
+├── requirements.txt
+├── README.md
 └── .gitignore
 ```
 
