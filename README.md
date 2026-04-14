@@ -34,4 +34,22 @@ This project reflects real-world systems used in:
 
 ---
 
-## 🧠 System Architecture
+## 🧠 Final Project Structure
+AI-Autonomous-Navigation-System/
+│
+├── simulation/
+│   ├── __init__.py
+│   └── environment.py
+│
+├── src/
+│   ├── __init__.py
+│   ├── path_planning.py
+│   └── navigation.py
+│
+├── outputs/
+│   ├── images/
+│   └── videos/
+│
+├── main.py
+├── requirements.txt
+└── .gitignore
