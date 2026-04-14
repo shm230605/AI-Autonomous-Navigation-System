@@ -28,27 +28,23 @@ This project mimics real-world autonomous systems used in robotics, self-driving
 AI-Autonomous-Navigation-System/
 │
 ├── simulation/
-│ ├── init.py
-│ └── environment.py 
+│   ├── __init__.py
+│   └── environment.py
 │
 ├── src/
-│ ├── init.py
-│ ├── path_planning.py 
-│ └── navigation.py 
+│   ├── __init__.py
+│   ├── path_planning.py
+│   └── navigation.py
 │
 ├── outputs/
-│ ├── images/ 
-│ └── videos/ 
+│   ├── images/
+│   └── videos/
 │
-├── main.py 
-├── requirements.txt 
-<<<<<<< HEAD
-├── .gitignore 
-└── README.md 
+├── main.py
+├── requirements.txt
+├── .gitignore
+└── README.md
 
 ## 📸 Screenshots
 
-![Simulation](outputs/images/Screenshot 2026-04-14 115205.png)
-=======
-└── .gitignore 
->>>>>>> 7c5be3b7473409c87e25bd0dd0d0825cff310ddd
+![Simulation](https://github.com/shm230605/AI-Autonomous-Navigation-System/blob/main/outputs/images/simulation.png?raw=true)
